@@ -5,10 +5,6 @@ def plus(a: int, b: int) -> int:
 #   function plus
 
 def minus(a: int, b: int) -> int:
-    """
-
-    :type b: object
-    """
     return a - b
 
 def mul(a: int, b: int) -> int:
