@@ -1,3 +1,6 @@
+"""
+Learning git
+"""
 import up_text
 
 def plus(a: int, b: int) -> int:
